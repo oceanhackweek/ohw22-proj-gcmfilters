@@ -1,0 +1,14 @@
+name: gcm-filters-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - xarray
+  - dask
+  - gcm_filters
+  - xesmf
+  - cartopy
+  - gcsfs
+  - ipykernel
+  - xgcm
+  - cartopy >= 0.20.0
