@@ -41,4 +41,10 @@ Executing transaction: done
 #     $ conda deactivate
 ```
 You do not need to do anything else at the command line if you get to this stage. (That is, you do not need to activate the environment, though are welcome to if you'd like.)
+- Optional: In case we are missing a package, we can add it to the `gcm-filters_env.yaml` file later and then type
+```
+conda env update --file gcm-filters_env.yaml --prune
+```
 - The last step is to start a new notebook with the new environment we just created! To do this, you will need to open a new landing page (click the "+" in the upper left of the Hub). You should see an option to open a notebook in the top row with the new environment called "gcm-filters-env". NOTE: it may take a couple minutes for the environment to appear.
+
+
