@@ -1,10 +1,10 @@
 # ohw22-proj-gcmfilters
 ## Mapping eddy flow structures using GCM-Filters
 
-Important links: 
+### Important links: 
 
-[Pangeo Data Catalog](https://catalog.pangeo.io/browse/master/ocean/)
-[GCM-filters documentation](https://gcm-filters.readthedocs.io/en/latest/index.html)
+- [Pangeo Data Catalog](https://catalog.pangeo.io/browse/master/ocean/)
+- [GCM-filters documentation](https://gcm-filters.readthedocs.io/en/latest/index.html)
 
 Below we have our plan for the week!
 
