@@ -14,7 +14,7 @@ Below we have our plan for the week!
   - Decide what data set to use from the Pangeo Data Catalog - ok (NCAR CESM Global High Resolution Ocean Model Fields)
 
 ### Goals for Wednesday: 
-- Run the example "Filtering on a tripole grid" from GCM-Filters; 
+- Run the example "Filtering on CPUs vs GPUs" from GCM-Filters; 
 - Explore the data set, examine regions of interest and try to apply the GCM-Filters using the examples;
  - Update the code for using Laplacians to filter vector fields in the NCAR CESM POP model.
 
