@@ -12,6 +12,9 @@ Below we have our plan for the week!
   - Make sure everyone can open and is comfortable with jupyterhub
   - Run some examples of GCM-Filters on the Hub 
   - Decide what data set to use from the Pangeo Data Catalog
+  
+### Goals for Wednesday:
+ 
 
 
 ## Instructions for running a `GCM-filters` environment
