@@ -12,3 +12,8 @@ dependencies:
   - ipykernel
   - xgcm
   - cartopy >= 0.20.0
+  - vim
+  - intake
+  - intake-xarray
+  - s3fs
+  - pooch>=1.5.0
