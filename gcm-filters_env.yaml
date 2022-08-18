@@ -18,3 +18,6 @@ dependencies:
   - s3fs
   - pooch>=1.5.0
   - hvplot
+  - xmovie
+  - ipywidgets
+  - ffmpeg
