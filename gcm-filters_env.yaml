@@ -17,6 +17,7 @@ dependencies:
   - intake-xarray
   - s3fs
   - pooch>=1.5.0
+  - ffmpeg-python
   - hvplot
   - xmovie
   - ipywidgets

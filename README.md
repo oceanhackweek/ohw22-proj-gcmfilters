@@ -13,6 +13,7 @@ Below we have our plan for the week!
   - Run some examples of GCM-Filters on the Hub 
   - Decide what data set to use from the Pangeo Data Catalog - ok (NCAR CESM Global High Resolution Ocean Model Fields)
 
+
 ### Goals for Wednesday: 
 - Run the example "Filtering on CPUs vs GPUs" from GCM-Filters; 
 - Explore the data set, examine regions of interest and try to apply the GCM-Filters using the examples;
