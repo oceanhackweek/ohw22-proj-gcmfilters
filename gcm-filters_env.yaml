@@ -18,3 +18,5 @@ dependencies:
   - s3fs
   - pooch>=1.5.0
   - ffmpeg-python
+  - hvplot
+

@@ -9,12 +9,15 @@
 Below we have our plan for the week!
 
 ### Goals for Tuesday:
-  - Make sure everyone can open and is comfortable with jupyterhub
+  - Make sure everyone can open and is comfortable with jupyterhub - ok
   - Run some examples of GCM-Filters on the Hub 
-  - Decide what data set to use from the Pangeo Data Catalog
-  
+  - Decide what data set to use from the Pangeo Data Catalog - ok (NCAR CESM Global High Resolution Ocean Model Fields)
 
 
+### Goals for Wednesday: 
+- Run the example "Filtering on CPUs vs GPUs" from GCM-Filters; 
+- Explore the data set, examine regions of interest and try to apply the GCM-Filters using the examples;
+ - Update the code for using Laplacians to filter vector fields in the NCAR CESM POP model.
 
 ## Instructions for running a `GCM-filters` environment
 
